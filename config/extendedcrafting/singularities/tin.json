@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.tin",
+  "colors": [
+    "-5f4143",
+    "-ad8777"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/tin"
+  }
+}

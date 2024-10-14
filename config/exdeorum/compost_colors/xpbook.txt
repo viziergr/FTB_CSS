@@ -1,0 +1,3 @@
+// Compost colors for xpbook. You may add your own colors, change existing ones, or remove colors that aren't needed.
+xp_book, #7c3d76
+xp_tome, #7c3d76

@@ -1,0 +1,72 @@
+{
+	chapter.242AFCA1933A8672.title: "Mekanism"
+	chapter.294251ACA8C4FBC8.title: "Solar Flux Reborn"
+	chapter.3FC4F30D9044FE11.title: "Préambule"
+	chapter.5C01E94300482089.title: "Stockage facile"
+	chapter.5EC605FFEE1F75B6.title: "Stockage avancé"
+	chapter_group.0A099206B09527C3.title: "Magie"
+	chapter_group.45A7CECB5205D86D.title: "Stockage"
+	chapter_group.510BDFD2925E80E3.title: "Technologie"
+	chapter_group.71A5E62EFC1DBF27.title: "Exploration"
+	chapter_group.7C0759E0B1B574DA.title: "Divers"
+	chapter_group.7DD23BBDFAC134A2.title: "Création de ressources"
+	quest.006DCF32299B85AC.quest_desc: ["Il a 108 slots d'objets et 5 slots d'améliorations."]
+	quest.01DEC7DD6103B047.quest_desc: [
+		"Les backpacks sont un moyen de stockage très efficace en début de jeu. Ils permettent de stocker une très très grande quantité d'objets sur soi."
+		""
+		"Ils sont extremement modulables."
+		""
+		"Le backpack de base possède 27 slots d'objets et 1 slot d'améliorations."
+	]
+	quest.03250761C155B504.quest_desc: ["Permet d'attirer les objets directement dans l'inventaire."]
+	quest.040F222D8D300C42.quest_desc: ["Il a 120 slots d'objets et 7 slots d'améliorations."]
+	quest.041462003D59533E.quest_desc: ["L'item de base qui permet de créer toutes les upgrade pour les drawers."]
+	quest.0670F3A6CEF3EF57.quest_desc: [
+		"Les compacting drawers permettent de stocker des objets comme un drawer classique, à la différence qu'il permet en même temps de compacter (comme son nom l'indique) les items à l'intérieur."
+		""
+		"Celui ci permet par exemple si on y insère des lingots de pouvoir rapidement sortir des blocks de ce lingot."
+	]
+	quest.09F32D80A1DFA530.quest_desc: ["Une version améliorée du magnet de base, permet de filtrer les objets attirés."]
+	quest.0DC039AC6A4410EE.quest_desc: ["Les drawers sont des blocks capables de stocker une très grande quantité d'un seul type d'objet. De base, il peut stocker 32 stacks d'un seul objet, mais il peut être amélioré pour en contenir &lbeaucoup&r plus"]
+	quest.11B23FD67BDD8462.quest_desc: ["Les panneaux solaires de Solar Flux Reborn sont une source relativement stable et accessible en début de jeu."]
+	quest.12616F2356652667.quest_desc: ["Il a 54 slots d'objets et 2 slots d'améliorations."]
+	quest.1A16DCEBFCAACF74.quest_desc: ["Une version améliorée du compacting upgrade de base, permet de compacter aussi en mode 3x3 (ex: lingots en blocks)."]
+	quest.1C384503D09D3D15.quest_desc: ["Celui-ci permet de passer de lingot à nugget et à block directement."]
+	quest.21813F43F1810C96.quest_desc: ["Utiliser de nombreux drawer peut ammener à un probleme de gestion des entrées/sorties. Il n'y a plus ce problème avec le drawer controller, qui permet de centraliser tous les drawers qui lui sont adjacents."]
+	quest.219C9BA35AF42B5C.quest_desc: ["Permet de mettre des backpacks dans des backpacks."]
+	quest.22625EC8CBD22D76.quest_desc: ["Quand ajouté à un drawer, permet de multipler par 32 la quantité qu'il peut stocker."]
+	quest.262AC1882AABA953.quest_desc: ["Marre d'avoir 10000 coffres différents ? On peut aussi créer des coffres avec un nombre de slot absolument ahurissant."]
+	quest.2B55C4D528410478.quest_desc: ["Quand ajouté à un drawer, permet de multipler par 16 la quantité qu'il peut stocker."]
+	quest.3D9836196F4E5EE8.quest_desc: ["Il a 81 slots d'objets et 3 slots d'améliorations."]
+	quest.40A3B1314CCB1A6C.quest_desc: ["Une version améliorée du void upgrade de base, permet de filtrer les objets supprimés."]
+	quest.480EAD8BD35E5E46.quest_desc: ["Fait en sorte que les objets ramassés aillent dans le backpack et pas dans l'inventaire."]
+	quest.522BF59BC5AD781E.quest_desc: ["Permet de montrer ou de masquer la quantité stockée."]
+	quest.5A415F609C1F43C6.quest_desc: ["Quand ajouté à un drawer, permet de multipler par 8 la quantité qu'il peut stocker."]
+	quest.5ADD35D5255CF272.quest_desc: ["Pour améliorer la productivité de nos panneaux solaires, on peut utiliser des upgrades."]
+	quest.60561B3F3FCAAEF4.quest_desc: ["Permet de se nourrir automatiquement avec la nourriture dans le backpack."]
+	quest.65DCF44F644DA2DB.quest_desc: ["Quand ajouté à un drawer, permet de doubler la quantité qu'il peut stocker."]
+	quest.69A02742696FB528.quest_desc: ["Permet d'avoir une table de craft directement dans le backpack."]
+	quest.6A67BC4695EF6033.quest_desc: ["Permet de garder le backpack sur soi si on meurt."]
+	quest.6CF0DCE65517E3DA.quest_desc: ["Compacte automatiquement les objets dans le backpack qui sont compactables. Ne marche que pour les recettes en 2x2. "]
+	quest.6D417461F744B13E.quest_desc: ["Permet de supprimer les objets ramassés quand le backpack est plein."]
+	quest.70F77FF7FD394CBC.quest_desc: ["Une version améliorée du feeding upgrade de base, permet de filtrer la nourriture."]
+	quest.735E75BF032F01DE.quest_desc: ["Dans le modpack il existe des objets super cool"]
+	quest.740688904269743E.quest_desc: ["Permet d'augmenter la capacité d'un slot du backpack."]
+	quest.76967553774CE45D.quest_desc: [
+		"Objectivement l'un des objets les plus fort du modpack."
+		""
+		"Permet de stocker le temps passé en jeu pour accélerer les blocks."
+	]
+	quest.78F0C15EB50A2D13.quest_desc: ["Permet de bloquer l'utilisation d'un drawer."]
+	quest.78F880A71CEB19E2.quest_desc: ["Une version améliorée du pickup de base, permet de filtrer les objets ramassés."]
+	quest.7F15818FFA68D4E8.quest_desc: ["Quand ajouté à un drawer, permet de quadrupler la quantité qu'il peut stocker."]
+	quest.7F9C70ECFAB6A2AF.quest_desc: ["Permet d'empêcher que les autres joueurs ne piquent dedans."]
+	reward_table.348016BAE727BF73.title: "Rare"
+	reward_table.78EF7F51331F30CF.title: "Basic"
+	task.02C57F6948DE4693.title: "Objets stylés"
+	task.246112DEE88A6ACC.title: "Build"
+	task.26B0F5447ADAD088.title: "Any #storagedrawers:full_drawers"
+	task.2DD04390C5445F7F.title: "Any #sophisticatedstorage:base_tier_wooden_storage"
+	task.37B207E82F43E81A.title: " Solar Flux Reborn"
+	task.6449D27C2289DB1F.title: "Solar Flux Reborn"
+}

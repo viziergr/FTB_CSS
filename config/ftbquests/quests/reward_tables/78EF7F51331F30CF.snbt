@@ -1,0 +1,59 @@
+{
+	id: "78EF7F51331F30CF"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			count: 4
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			random_bonus: 4
+		}
+		{
+			count: 4
+			item: {
+				count: 1
+				id: "minecraft:piston"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 2
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+			random_bonus: 2
+		}
+		{ type: "xp_levels", xp_levels: 5 }
+		{
+			count: 2
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 4
+			item: {
+				count: 1
+				id: "minecraft:bookshelf"
+			}
+			random_bonus: 4
+		}
+		{ count: 4, item: { count: 1, id: "minecraft:ender_pearl" } }
+		{ count: 2, item: { count: 1, id: "solarflux:sp_1" } }
+		{
+			count: 8
+			item: {
+				count: 1
+				id: "minecraft:leather"
+			}
+			random_bonus: 4
+		}
+		{ count: 8, item: { count: 1, id: "storagedrawers:upgrade_template" } }
+	]
+}

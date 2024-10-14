@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.iron",
+  "colors": [
+    "-1e1e1f",
+    "-939394"
+  ],
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.glowstone",
+  "colors": [
+    "-2c71",
+    "-5f9ecb"
+  ],
+  "ingredient": {
+    "item": "minecraft:glowstone_dust"
+  }
+}

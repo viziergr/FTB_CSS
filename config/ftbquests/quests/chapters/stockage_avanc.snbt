@@ -1,0 +1,23 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "stockage_avanc"
+	group: "45A7CECB5205D86D"
+	icon: {
+		id: "ae2:controller"
+	}
+	id: "5EC605FFEE1F75B6"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		icon_scale: 2.0d
+		id: "01F558C849F7513F"
+		tasks: [{
+			id: "731EA4192244DD91"
+			item: { count: 1, id: "ae2:controller" }
+			type: "item"
+		}]
+		x: 1.0d
+		y: -4.5d
+	}]
+}

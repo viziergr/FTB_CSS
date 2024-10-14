@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.lapis_lazuli",
+  "colors": [
+    "-987216",
+    "-e4ac59"
+  ],
+  "ingredient": {
+    "item": "minecraft:lapis_lazuli"
+  }
+}

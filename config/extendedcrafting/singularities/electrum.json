@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.electrum",
+  "colors": [
+    "-a0e72",
+    "-6172c2"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/electrum"
+  }
+}

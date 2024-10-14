@@ -1,0 +1,27 @@
+{
+	id: "348016BAE727BF73"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			count: 4
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			random_bonus: 4
+			weight: 1.5f
+		}
+		{
+			count: 2
+			item: {
+				count: 1
+				id: "minecraft:netherite_ingot"
+			}
+			random_bonus: 2
+		}
+		{ item: { count: 1, id: "minecraft:nether_star" }, weight: 0.2f }
+		{ item: { components: { "enderio:stored_entity": { entityTag: { id: "minecraft:shulker" }, maxHealth: 0.0f } }, count: 1, id: "enderio:filled_soul_vial" } }
+		{ item: { count: 1, id: "solarflux:sp_3" } }
+	]
+}

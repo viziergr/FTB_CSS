@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.copper",
+  "colors": [
+    "-56884",
+    "-43abd0"
+  ],
+  "ingredient": {
+    "item": "minecraft:copper_ingot"
+  }
+}

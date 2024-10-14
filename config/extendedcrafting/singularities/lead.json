@@ -1,0 +1,10 @@
+{
+  "name": "singularity.extendedcrafting.lead",
+  "colors": [
+    "-93826e",
+    "-cdca9e"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/lead"
+  }
+}

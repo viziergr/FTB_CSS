@@ -1,0 +1,305 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "solar_flux_rebrn"
+	group: "510BDFD2925E80E3"
+	icon: {
+		id: "solarflux:sp_5"
+	}
+	id: "294251ACA8C4FBC8"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["11B23FD67BDD8462"]
+			id: "474A8DBA755837F8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "22828E4235B6FDA2"
+				table_id: 8714323790711959759L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2EAD922EB1D217BA"
+				item: { count: 1, id: "solarflux:sp_1" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			icon: {
+				id: "solarflux:sp_1"
+			}
+			id: "11B23FD67BDD8462"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7479CD490B813FA6"
+				table_id: 8714323790711959759L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6449D27C2289DB1F"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["474A8DBA755837F8"]
+			id: "0A1DA650E4C208AC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "357EBC0DBC7B6EE0"
+				table_id: 8714323790711959759L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4F866D19C3F70EF5"
+				item: { count: 1, id: "solarflux:sp_2" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0A1DA650E4C208AC"]
+			id: "2DA7D7006ADC59F6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "320E8FD90EBDA361"
+				table_id: 8714323790711959759L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4EFB52CE1967FC4C"
+				item: { count: 1, id: "solarflux:sp_3" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2DA7D7006ADC59F6"]
+			id: "601CA17E11AC0E30"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "69A03D8D82A52F2C"
+				table_id: 8714323790711959759L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6A5E9232AFCA2722"
+				item: { count: 1, id: "solarflux:sp_4" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["601CA17E11AC0E30"]
+			id: "7C0B668481DCE6A8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4CAF120ADB76EEAE"
+				table_id: 8714323790711959759L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3C534ECBF98FE759"
+				item: { count: 1, id: "solarflux:sp_5" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7C0B668481DCE6A8"]
+			id: "5335A3BC26474422"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5FC36A39EA9E505C"
+				table_id: 8714323790711959759L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7D6AF38A85797E4A"
+				item: { count: 1, id: "solarflux:sp_6" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5335A3BC26474422"]
+			id: "57AEAB7DA8C68ACE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "30CDE2D13D0E0A7E"
+				table_id: 8714323790711959759L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "13F1ACEBAC076D37"
+				item: { count: 1, id: "solarflux:sp_7" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["57AEAB7DA8C68ACE"]
+			id: "6D07CE76F9AD35EF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6C8FB35EE8A9DA41"
+				table_id: 8714323790711959759L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6B59D40BD7725D84"
+				item: { count: 1, id: "solarflux:sp_8" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["11B23FD67BDD8462"]
+			id: "5ADD35D5255CF272"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "508A83BEA2CE1038"
+				table_id: 8714323790711959759L
+				type: "random"
+			}]
+			tasks: [{
+				count: 8L
+				id: "7CAEDC0D67F77111"
+				item: { count: 8, id: "solarflux:blank_upgrade" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["5ADD35D5255CF272"]
+			id: "17B37FF834B8FC8F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "07B03F36E5B7A937"
+				table_id: 8714323790711959759L
+				type: "random"
+			}]
+			tasks: [{
+				id: "706BF232A31C1F6D"
+				item: { count: 1, id: "solarflux:efficiency_upgrade" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5ADD35D5255CF272"]
+			id: "143DF28CE3F9C326"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "26C61C7398BB5EA4"
+				table_id: 8714323790711959759L
+				type: "random"
+			}]
+			tasks: [{
+				id: "07065EE15D8244EE"
+				item: { count: 1, id: "solarflux:transfer_rate_upgrade" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5ADD35D5255CF272"]
+			id: "3F6B852EED0528CD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2540955412CC5AAC"
+				table_id: 8714323790711959759L
+				type: "random"
+			}]
+			tasks: [{
+				id: "59BAE670AF7925EE"
+				item: { count: 1, id: "solarflux:capacity_upgrade" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5ADD35D5255CF272"]
+			id: "0982A29D2971C3BE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "431B6B92F348369D"
+				table_id: 8714323790711959759L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5A781867A00364BE"
+				item: { count: 1, id: "solarflux:traversal_upgrade" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5ADD35D5255CF272"]
+			id: "5198170404E9CFAE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "12B094560A2B48A9"
+				table_id: 8714323790711959759L
+				type: "random"
+			}]
+			tasks: [{
+				id: "300ED3A1660256B4"
+				item: { count: 1, id: "solarflux:dispersive_upgrade" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5ADD35D5255CF272"]
+			id: "3B87D83E012FCB83"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "453F0310C48E385C"
+				table_id: 8714323790711959759L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6A5A1A43E689C114"
+				item: { count: 1, id: "solarflux:block_charging_upgrade" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5ADD35D5255CF272"]
+			id: "5A9E61F353B7D960"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2CC077019D3581D7"
+				table_id: 8714323790711959759L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5C9E0A2270EEE6BE"
+				item: { count: 1, id: "solarflux:furnace_upgrade" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+	]
+}
