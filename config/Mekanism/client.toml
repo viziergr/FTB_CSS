@@ -82,7 +82,7 @@
 	slotsWide = 8
 	#Number of slots to view vertically on a QIO Dashboard.
 	#Range: 2 ~ 48
-	slotsTall = 4
+	slotsTall = 15
 	#Determines whether the search bar is automatically focused when a QIO Dashboard is opened.
 	autoFocusSearchBar = true
 	#Determines if items in a QIO crafting window should be moved to the player's inventory or the frequency first when replacing the items in the crafting grid using a recipe viewer.
@@ -108,27 +108,27 @@
 	#The last position the Crafting window was in when it was closed, and whether it was pinned.
 	[window.crafting0]
 		#The x component of this window's last position.
-		x = 2147483647
+		x = -161
 		#The y component of this window's last position.
-		y = 2147483647
+		y = 76
 		#Determines whether this window is pinned, and should open automatically when the GUI is reopened.
 		pinned = false
 
 	#The last position the Crafting window was in when it was closed, and whether it was pinned.
 	[window.crafting1]
 		#The x component of this window's last position.
-		x = 2147483647
+		x = -162
 		#The y component of this window's last position.
-		y = 2147483647
+		y = 157
 		#Determines whether this window is pinned, and should open automatically when the GUI is reopened.
 		pinned = false
 
 	#The last position the Crafting window was in when it was closed, and whether it was pinned.
 	[window.crafting2]
 		#The x component of this window's last position.
-		x = 2147483647
+		x = -163
 		#The y component of this window's last position.
-		y = 2147483647
+		y = 238
 		#Determines whether this window is pinned, and should open automatically when the GUI is reopened.
 		pinned = false
 

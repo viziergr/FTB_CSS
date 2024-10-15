@@ -1,0 +1,3 @@
+// Compost colors for css. You may add your own colors, change existing ones, or remove colors that aren't needed.
+infinity_egg, #ffffdd
+infinity_scroll, #ffffff

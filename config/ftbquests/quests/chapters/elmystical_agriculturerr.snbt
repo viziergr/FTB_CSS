@@ -428,14 +428,6 @@
 			y: -0.5d
 		}
 		{
-			height: 2.5d
-			image: "atm:textures/questpics/wither.png"
-			rotation: 0.0d
-			width: 2.5d
-			x: 20.0d
-			y: 1.0d
-		}
-		{
 			click: "#77C6667B4C37589C"
 			height: 1.25d
 			hover: ["Awakened Supremium Machine Upgrade"]
@@ -5005,22 +4997,6 @@
 			}]
 			x: 6.5d
 			y: -1.5d
-		}
-		{
-			id: "5D52EA1F8F7522F5"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "695D209352286C4F"
-				table_id: 8714323790711959759L
-				type: "random"
-			}]
-			tasks: [{
-				id: "0A964B45E5DEB7E7"
-				item: { count: 1, id: "minecraft:spruce_fence_gate" }
-				type: "item"
-			}]
-			x: -1.0d
-			y: -16.5d
 		}
 	]
 }
